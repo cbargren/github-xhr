@@ -1,7 +1,7 @@
 {
-  "name": "github4",
-  "version": "0.5.4",
-  "description": "NodeJS wrapper for the GitHub API",
+  "name": "github-xhr",
+  "version": "0.0.1",
+  "description": "NodeJS wrapper for the GitHub API that uses browser XMLHttpRequest to make requests",
   "author": "Mike de Boer <info@mikedeboer.nl>",
   "contributors": [
     {
@@ -15,12 +15,16 @@
     {
       "name": "Joe Gallo",
       "email": "joe@brassafrax.com"
+    },
+    {
+      "name": "Chris Bargren",
+      "email": "cbargren@gmail.com"
     }
   ],
-  "homepage": "https://github.com/kaizensoze/node-github",
+  "homepage": "https://github.com/cbargren/github-xhr",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kaizensoze/node-github.git"
+    "url": "https://github.com/cbargren/github-xhr.git"
   },
   "engine": {
     "node": ">=0.4.0"
