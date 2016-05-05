@@ -23,6 +23,7 @@
             "Status"
         ],
         "request-headers": [
+            "Cache-Control",
             "If-Modified-Since",
             "If-None-Match",
             "Cookie",
