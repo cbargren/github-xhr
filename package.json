@@ -1,6 +1,6 @@
 {
   "name": "github-xhr",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "NodeJS wrapper for the GitHub API that uses browser XMLHttpRequest to make requests",
   "author": "Mike de Boer <info@mikedeboer.nl>",
   "contributors": [
